@@ -1,0 +1,6 @@
+big O () of MyBidirectionalLinkedList = O(n), and for Big O () of Ex02 List = O (n) in all methods because it`s still linear.
+because O (n/2) is still O(n) in the big picture.
+the use of BidirectionalLinkedList is in stack and queue, because big O is O (1) and in those situations the middle is not used.
+So, it is better in large data setts but its not better then a O (log(n)) its only not used.
+The best case is for BidirectionalLinkedList is Ω (1) in all methods and for ex02 its also Ω (1) in all methods and uses more memory.
+So it is no use for it unless you need to get the middle extremely fast.

@@ -1,0 +1,6 @@
+"is +this +an +out +of +season +april +fools +joke\?/i"
+
+but in java its a bit different because you cant use flag i so you need to use
+"is +this +an +out +of +season +april +fools +joke\\?"
+
+but have are not case insensitive
